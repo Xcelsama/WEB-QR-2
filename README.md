@@ -10,7 +10,7 @@
    <body>
   <p align="center">  
   <a aria-label="FORK" href="https://github.com/Xcelsama/Web-Qr/fork" target="_blank">
-    <img alt="License: GPL-3" src="https://img.shields.io/github/stars/Xcelsama/Web-Qr?style=social" target="_blank" />
+    <img alt="License: GPL-3" src="https://img.shields.io/github/stars/Xcelsama/Web-QR-2?style=social" target="_blank" />
   </a>
   
      
